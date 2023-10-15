@@ -1,1 +1,3 @@
-## O(log(n))
+Tempo de execução logarítimico, ou:
+
+O(log(n))
