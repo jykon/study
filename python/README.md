@@ -1,3 +1,3 @@
-Tempo de execução logarítimico, ou:
+Tempo de execução, ou:
 
 O(log(n))
